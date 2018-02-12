@@ -1,18 +1,16 @@
 - skill:
-  name: Python & Django
+  name: JavaScript / jQuery
   level: 98%
 - skill:
-  name: Javascript & jQuery
+  name: Salesforce Commerce Cloud
   level: 98%
 - skill:
-  name: Angular
-  level: 98%
-- skill:
-  name: HTML5 & CSS
+  name: Serverside Javascript, nodeJS, commonJS
   level: 95%
 - skill:
-  name: Ruby on Rails
-  level: 85%
+  name: HTML5 & CSS (SASS, LESS, BEM)
+  level: 80%
 - skill:
-  name: Sketch & Photoshop
-  level: 60%
+  name: Velocity, Moustache
+  level: 70%
+

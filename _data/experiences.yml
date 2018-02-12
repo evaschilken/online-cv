@@ -1,28 +1,11 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
-- experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
-- experience:
-  role: UI Developer
+  role: Web Developer (Frontend)
   time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  company: STRICTmobile Frankfurt
+  details: "At STRICTmobile I was working full-time in multiple projects such as developing and enhancing the dedicated mobile site of enterprise brands like HUGO BOSS, Quicksilver, DC Shoes, Roxy or Görtz Shoes.
+I’ve learned a lot from my colleges and got confident in my skills after coming straight from University. Writing technical concepts as well as estimating projects became part of my daily routine. So did tools like Jira, Confluence and Zoho Projects and Bitbucket/Git. "
+- experience:
+  role: Web Developer (Backend)
+  time: 2014 - 2017
+  company: STRICTmobile Berlin
+  details: "After moving to Berlin I’ve started working more on the backend side by integrating various APIs into the Salesforce Commerce Cloud shop system. As a Technical Lead I also guided my colleges though projects as well as making architectural decisions and code reviews."

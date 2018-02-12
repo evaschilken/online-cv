@@ -2,11 +2,11 @@
 title: My Resume
 url: 'evaschilken.github.io'
 baseurl: '/online-cv' #change it according to your repository name
-about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
+about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
-#style: styles-2
+style: styles-2
 #style: styles-3
 #style: styles-4
 #style: styles-5
@@ -17,10 +17,11 @@ about: True # set to False or comment line if you want to remove the "How to use
 name: Eva Schilken
 tagline: Web Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'I’m an experienced Senior Web Developer from Berlin looking for a new challenge during my stay in Melbourne.
+<br><br>
+I have 5 years experience in developing multi-country enterprise e-commerce websites with the Salesforce Commerce Cloud. After working hard for the past years I decided to make the cut and travel the world starting in India. My travels changed my perspective of life and work in general and taught me lots of good life lessons.
+<br><br>
+I’m very eager to dive into new projects now and learn new languages. I’m especially interested to get my hands on some React. '
 
 #sidebar links
 email: eva@schilken.de

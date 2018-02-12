@@ -1,23 +1,23 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+#intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
+#  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 projects:
   - project:
-    title: Velocity
+    title:  May 2014
     link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    tagline: "Redesign of HUGO BOSS online shop within three month (Desktop and Mobile) which led to a big increase of performance of all channels"
   - project:
-    title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    title:  June 2014
+    link: "#hook"
+    tagline: "Certified as Salesforce Commerce Cloud Developer in Jena, Germany"
   - project:
-    title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    title:  Dezember 2014
+    link: "#hook"
+    tagline: "Technical Lead for the Tamaris Mobile Website (Brand of the Wortmann Schuh-Holding which is one of the biggest shoe production and sales companies in Europe)"
   - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    title:  May 2016
+    link: "#hook"
+    tagline: "Integration of Click & Collect Feature for hugoboss.com in Europe as well as in the United States"
   - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title:  August 2017
+    link: "#hook"
+    tagline: "Integration of the Parcelshop Finder (DHL and UPS) into the checkout of hugoboss.com"
