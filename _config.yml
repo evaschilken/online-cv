@@ -21,13 +21,15 @@ summary: 'I’m an experienced Senior Web Developer from Berlin looking for a ne
 <br><br>
 I have 5 years experience in developing multi-country enterprise e-commerce websites with the Salesforce Commerce Cloud. After working hard for the past years I decided to make the cut and travel the world starting in India. My travels changed my perspective of life and work in general and taught me lots of good life lessons.
 <br><br>
-I’m very eager to dive into new projects now and learn new languages. I’m especially interested to get my hands on some React. '
+I’m very eager to dive into new projects now and learn new languages. I’m especially interested to get my hands on some React. 
+<br><br>
+<i style="font-size:12px">(Working Holiday Visa, Available for contract or freelance)</i>'
 
 #sidebar links
 email: eva@schilken.de
 phone: +61 426 134 923
 website: eva.schilken.de #do not add http://
-#linkedin: alandoe
+linkedin: eva-schilken
 github: evaschilken
 twitter: '@easyeve'
 #Update all the sections by editing the files inside _data folder.
