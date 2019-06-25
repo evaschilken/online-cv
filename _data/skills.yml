@@ -6,14 +6,17 @@
   level: 90%
 - skill:
   name: nodeJS
-  level: 85%
+  level: 90%
 - skill:
   name: HTML5 & CSS (SASS, LESS, BEM)
-  level: 80%
+  level: 70%
 - skill:
   name: Velocity, Moustache, commonJS
   level: 70%
 - skill:
-  name: ReactJS (currently learning)
-  level: 50%
+  name: ReactJS
+  level: 30%
+- skill:
+  name: Python
+  level: 30%
 
