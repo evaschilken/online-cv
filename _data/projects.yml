@@ -25,3 +25,7 @@ projects:
     title:  March 2018
     link: "#hook"
     tagline: "Starting freelance work from abroad (Melbourne, Australia)"
+  - project:
+    title:  September 2018
+    link: "#hook"
+    tagline: "Integration of ApplePay as payment method into SFCC checkout"
