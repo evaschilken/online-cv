@@ -28,4 +28,4 @@ projects:
   - project:
     title:  September 2018
     link: "#hook"
-    tagline: "Integration of ApplePay as payment method into SFCC checkout"
+    tagline: "Integration of ApplePay as a payment method into SFCC checkout"
