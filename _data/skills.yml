@@ -2,11 +2,11 @@
   name: Salesforce Commerce Cloud
   level: 98%
 - skill:
-  name: JavaScript, jQuery
-  level: 88%
-- skill:
   name: nodeJS
   level: 92%
+- skill:
+  name: JavaScript, jQuery
+  level: 88%
 - skill:
   name: HTML5 & CSS (SASS, LESS, BEM)
   level: 70%
